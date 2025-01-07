@@ -2,12 +2,6 @@
 
 Minishell is a simple Unix-like shell implemented as part of the curriculum at **École 42**. It aims to replicate basic functionalities of a shell such as handling user input, executing commands, managing processes, and handling built-in commands like `echo`, `cd`, `pwd`, and more.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-
 ## Introduction
 
 Minishell is a project that provides hands-on experience in building a Unix shell. It was developed as part of the **42 School** curriculum to learn how to interact with the operating system through system calls and to manage user input and processes.
