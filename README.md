@@ -23,4 +23,5 @@ The shell allows users to interact with the system by executing commands, redire
 1. Clone the repository:
    ```bash
    git clone https://github.com/jozyjozy/minishell.git
+   cd minishell
    make
