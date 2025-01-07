@@ -7,10 +7,6 @@ Minishell is a simple Unix-like shell implemented as part of the curriculum at *
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Built-in Commands](#built-in-commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
